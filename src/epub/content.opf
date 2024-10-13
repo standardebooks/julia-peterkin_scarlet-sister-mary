@@ -28,43 +28,51 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Scarlet Sister Mary</dc:title>
 		<meta property="file-as" refines="#title">Scarlet Sister Mary</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">African American women -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Plantation workers -- Fiction</dc:subject>
+		<dc:subject id="subject-3">South Carolina -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh2007100489</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008111423</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Fiction Winners</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">11</meta>
+		<dc:description id="description">A woman struggles to choose between living as a good-standing member of the church or embracing a life of sin and pleasure.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Set in post-Civil War South on Blue Brook Plantation, &lt;i&gt;Scarlet Sister Mary&lt;/i&gt; tells the story of Mary, a fifteen-year-old orphan girl in a close-knit Gullah community. As she prepares to marry the charismatic but unreliable July, Mary finds herself torn between tradition and her own desires. Love, community, and superstition intertwine as Mary learns what and who truly matter to her.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Scarlet Sister Mary&lt;/i&gt; holds a significant place in &lt;a href="https://standardebooks.org/ebooks/julia-peterkin"&gt;Julia Peterkin’s&lt;/a&gt; literary canon, earning her the Pulitzer Prize for Fiction in 1929. It is notable for its portrayal of African-American life, particularly among the Gullah people of South Carolina. Peterkin, a white author, was distinctive for her time in focusing on African-American experiences.&lt;/p&gt;
+			&lt;p&gt;The awarding of the Pulitzer Prize for &lt;i&gt;Scarlet Sister Mary&lt;/i&gt; was not without controversy. The Pulitzer jury had originally selected another novel, &lt;i&gt;Victim and Victor&lt;/i&gt; by John Rathbone Oliver for the prize, but their choice was overridden by the advisory board. As a result, the jury chair resigned in protest, marking the award as a contentious decision. Despite this, the novel remains a noteworthy part of the early 20th-century conversation on race and Southern literature.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20210440</dc:source>
+		<dc:source>https://archive.org/details/scarletsistermar0000juli_u4y9</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Scarlet_Sister_Mary</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/julia-peterkin_scarlet-sister-mary</meta>
 		<dc:creator id="author">Julia Peterkin</dc:creator>
 		<meta property="file-as" refines="#author">Peterkin, Julia</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Julia_Peterkin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50010592</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Richard Norris Brooke</dc:contributor>
+		<meta property="file-as" refines="#artist">Brooke, Richard Norris</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Richard_Norris_Brooke</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2004112928</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Alex White</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">White, Alex</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Distributed Proofreaders Canada</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders Canada</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdpcanada.net</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Brendan Fattig</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Fattig, Brendan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
