@@ -13,10 +13,6 @@ section[epub|type~="dedication"] > *{
 	max-width: 80%;
 }
 
-section[epub|type~="dedication"] p > span{
-	font-variant: small-caps;
-}
-
 @supports(display: flex){
 	section[epub|type~="dedication"]{
 		align-items: center;
@@ -58,3 +54,9 @@ p span.i4{
 	padding-left: 5em;
 	text-indent: -1em;
 }
+
+/* Begin custom dedication */
+section[epub|type~="dedication"] p{
+	font-variant: small-caps;
+}
+/* End custom dedication */
