@@ -57,6 +57,10 @@ p span.i4{
 
 /* Begin custom dedication */
 section[epub|type~="dedication"] p{
-	font-variant: small-caps;
+	font-style: italic;
+}
+
+section[epub|type~="dedication"] p b{
+	font-style: normal;
 }
 /* End custom dedication */
