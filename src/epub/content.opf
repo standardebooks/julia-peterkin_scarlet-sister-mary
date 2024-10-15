@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/julia-peterkin/scarlet-sister-mary</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-10-15T15:48:10Z</dc:date>
+		<meta property="dcterms:modified">2024-10-15T15:48:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,15 +43,15 @@
 		<meta property="group-position" refines="#collection-1">11</meta>
 		<dc:description id="description">A young woman struggles to choose between living as a member in good standing in the church or embracing a life of sin and pleasure.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Set in the post-Civil War South on Blue Brook Plantation, &lt;i&gt;Scarlet Sister Mary&lt;/i&gt; tells the story of Mary, a fifteen-year-old orphan girl in a close-knit Gullah community. As she prepares to marry the charismatic but unreliable July, Mary finds herself torn between tradition and her own desires. Love, community, and superstition intertwine as Mary learns what and who truly matter to her.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Scarlet Sister Mary&lt;/i&gt;, written at the height of the Harlem Renaissance, is notable for its depiction of African-American life, particularly the Gullah people. It won &lt;a href="https://standardebooks.org/ebooks/julia-peterkin"&gt;Julia Peterkin&lt;/a&gt; the Pulitzer Prize for Fiction in 1929. Rare for white authors of her time, Peterkin’s works primarily focus on the African-American experience.&lt;/p&gt;
-			&lt;p&gt;The awarding of the Pulitzer Prize for &lt;i&gt;Scarlet Sister Mary&lt;/i&gt; was not without controversy. The Pulitzer jury chair had spoken publicly of another candidate, &lt;i&gt;Victim and Victor&lt;/i&gt; by John Rathbone Oliver, as his favorite for the prize, which was reported in &lt;i&gt;Publishers’ Weekly&lt;/i&gt; as an announcement of the winner. Shortly afterward, &lt;i&gt;The New York Times&lt;/i&gt; published an article by the head of the Advisory Board refuting &lt;i&gt;Publishers’ Weekly&lt;/i&gt;. Ultimately, the Advisory Board chose &lt;i&gt;Scarlet Sister Mary&lt;/i&gt; as the winner and, subsequently, the jury chair resigned. Despite this, the novel remains a noteworthy part of the early 20th-century conversation on race and Southern literature.&lt;/p&gt;
+			&lt;p&gt;Set in the post-Civil War South on Blue Brook Plantation, &lt;i&gt;Scarlet Sister Mary&lt;/i&gt; tells the story of Mary, a fifteen-year-old orphan girl in a close-knit Gullah community. As she prepares to marry the charismatic but unreliable July, Mary finds herself torn between tradition and her own desires. Love, community, and superstition intertwine as Mary learns who and what truly matter to her.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Scarlet Sister Mary&lt;/i&gt;, written at the height of the Harlem Renaissance, is notable for its depiction of African-American life, particularly the Gullah people; and especially so because it was written by a white author, something very unusual for the era. It won &lt;a href="https://standardebooks.org/ebooks/julia-peterkin"&gt;Julia Peterkin&lt;/a&gt; the &lt;a href="https://standardebooks.org/collections/pulitzer-prize-for-fiction-winners"&gt;Pulitzer Prize for Fiction&lt;/a&gt; in 1929.&lt;/p&gt;
+			&lt;p&gt;The Pulitzer was not without controversy. The jury chair had spoken publicly of another candidate, &lt;i&gt;Victim and Victor&lt;/i&gt; by John Rathbone Oliver, as his favorite for the prize, which was reported in &lt;i&gt;Publishers’ Weekly&lt;/i&gt; as being the actual announcement of the winner. Shortly afterward, &lt;i&gt;The New York Times&lt;/i&gt; published an article by the head of the Advisory Board refuting &lt;i&gt;Publishers’ Weekly&lt;/i&gt;. Ultimately, the Advisory Board chose &lt;i&gt;Scarlet Sister Mary&lt;/i&gt; as the winner and, subsequently, the jury chair resigned. Despite this, the novel remains a noteworthy part of the early 20th-century conversation on race and Southern literature.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20210440</dc:source>
 		<dc:source>https://archive.org/details/scarletsistermar0000juli_u4y9</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">72521</meta>
+		<meta property="se:reading-ease.flesch">81.83</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Scarlet_Sister_Mary</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/julia-peterkin_scarlet-sister-mary</meta>
 		<dc:creator id="author">Julia Peterkin</dc:creator>
@@ -79,6 +79,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
