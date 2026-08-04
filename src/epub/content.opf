@@ -43,7 +43,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Fiction Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">11</meta>
-		<dc:abstract>A young woman struggles to choose between living as a member in good standing in the church or embracing a life of sin and pleasure.</dc:abstract>
+		<meta property="schema:abstract">A young woman struggles to choose between living as a member in good standing in the church or embracing a life of sin and pleasure.</meta>
 		<dc:description>
 			&lt;p&gt;Set in the post-Civil War South on Blue Brook Plantation, &lt;i&gt;Scarlet Sister Mary&lt;/i&gt; tells the story of Mary, a fifteen-year-old orphan girl in a close-knit Gullah community. As she prepares to marry the charismatic but unreliable July, Mary finds herself torn between tradition and her own desires. Love, community, and superstition intertwine as Mary learns who and what truly matter to her.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Scarlet Sister Mary&lt;/i&gt;, written at the height of the Harlem Renaissance, is notable for its depiction of African-American life, particularly the Gullah people; and especially so because it was written by a white author, something very unusual for the era. It won &lt;a href="https://standardebooks.org/ebooks/julia-peterkin"&gt;Julia Peterkin&lt;/a&gt; the &lt;a href="https://standardebooks.org/collections/pulitzer-prize-for-fiction-winners"&gt;Pulitzer Prize for Fiction&lt;/a&gt; in 1929.&lt;/p&gt;
