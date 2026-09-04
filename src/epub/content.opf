@@ -30,9 +30,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Scarlet Sister Mary</dc:title>
 		<meta property="file-as" refines="#title">Scarlet Sister Mary</meta>
-		<dc:subject id="subject-1">African American women -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Plantation workers -- Fiction</dc:subject>
-		<dc:subject id="subject-3">South Carolina -- Fiction</dc:subject>
+		<dc:subject id="subject-1">African American women--Fiction</dc:subject>
+		<dc:subject id="subject-2">Plantation workers--Fiction</dc:subject>
+		<dc:subject id="subject-3">South Carolina--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100489</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
